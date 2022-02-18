@@ -124,5 +124,6 @@ div{
 
 
 
-
-
+ul a {
+	text-decoration: none;
+}
