@@ -122,8 +122,6 @@ div{
 
 }
 
-
-
-ul a {
+.list-inline a {
 	text-decoration: none;
 }
